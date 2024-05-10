@@ -1,0 +1,6 @@
+flask_restful
+pymongo
+numpy
+pycaret
+pandas
+bson
